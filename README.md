@@ -57,6 +57,11 @@ Developed by:
 RegisterNumber:  
 */
 
+### UP COUNTER 
+![UP COUNTER](https://github.com/Sajith-28/Exp-7-Synchornous-counters-/assets/149937471/d9695bd7-b98c-411b-ba46-808fc834149c)
+
+### DOWN COUNTER 
+![DOWN COUNTER](https://github.com/Sajith-28/Exp-7-Synchornous-counters-/assets/149937471/a69dada2-9ca4-4f08-ad6c-86d1b352fd9f)
 
 
 
@@ -64,7 +69,11 @@ RegisterNumber:
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
+### UP COUNTER
+![UPCOUNTER-DIAGRAM](https://github.com/Sajith-28/Exp-7-Synchornous-counters-/assets/149937471/1f4b7204-76f9-4fef-8aa7-24d2b5932284)
 
+### DOWN COUNTER
+![DOWNCOUNTER-DIAGRAM](https://github.com/Sajith-28/Exp-7-Synchornous-counters-/assets/149937471/49e540d3-310e-4d94-bafb-72443ddb297e)
 
 
 
@@ -74,15 +83,24 @@ RegisterNumber:
 
 ### TIMING DIGRAMS FOR COUNTER  
 
+### UP COUNTER
+![UPCOUNTER-WAVEFORM](https://github.com/Sajith-28/Exp-7-Synchornous-counters-/assets/149937471/cbd35a80-a697-4e0d-80b8-e5dc5edaa62f)
 
+### DOWN COUNTER
+![DOWNCOUNTER-WAVEFORM](https://github.com/Sajith-28/Exp-7-Synchornous-counters-/assets/149937471/ab27779f-3e3d-4935-9fb0-a7bbe73f3403)
 
 
 
 ### TRUTH TABLE 
+### UP COUNTER
+![UPCOUNTER-TRUTH TABLE](https://github.com/Sajith-28/Exp-7-Synchornous-counters-/assets/149937471/3cea2a22-fb9a-4018-9568-51bcbd1d77e3)
 
+### DOWN COUNTER
+![DOWNCOUNTER-TRUTH TABLE](https://github.com/Sajith-28/Exp-7-Synchornous-counters-/assets/149937471/70e46490-f9b0-4126-bcdf-890580a1cbf2)
 
 
 
 
 
 ### RESULTS 
+Thus,The 4-bit up and down counter is implemented successfully.
